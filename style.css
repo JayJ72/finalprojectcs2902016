@@ -26,3 +26,11 @@ section .dislikeButton{
   bottom = 5px;
   left = 5px;
 }
+
+.imgbox {
+  background-color:white;
+  border-radius:25px;
+  height:200px;
+  position:relative;
+  width:300px;
+}
